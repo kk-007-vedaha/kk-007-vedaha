@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src='https://github-readme-stats.vercel.app/api?username=kk-007-vedaha&&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff'/>
+
 <!--
 **kk-007-vedaha/kk-007-vedaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
